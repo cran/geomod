@@ -1,0 +1,10 @@
+d7c892d4dfba9b1188c811c3d4621a8d *DESCRIPTION
+2f48310c5be0c9bd5c201c9ddca8399a *NAMESPACE
+63cf5e39597873f71db3f85977374079 *R/predGeo.R
+0eb0aab46298e6d3e7e4ed9b1858f65f *R/regmodelSuit.R
+bf7227573909100708f873bc101bad54 *data/predLayer.RData
+ff4a4596e2eb474ba19b4d614d5f3675 *data/sampleData.RData
+277b25b6b440a0f7eaeff89599092734 *man/predGeo.Rd
+40e97005fcfe0c887815c6cc1bd3d590 *man/predLayer.Rd
+c3b9839a4e782212ef6702f85f6341da *man/regmodelSuit.Rd
+7e88fb9b71ed4f57733dac9df0504c27 *man/sampleData.Rd
